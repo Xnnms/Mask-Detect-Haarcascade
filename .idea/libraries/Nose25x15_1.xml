@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Nose25x15.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/haarcascade/Nose25x15.1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
